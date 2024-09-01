@@ -12,6 +12,13 @@ run the node.js server:
 1. cd server-side
 2. npm start
 
+run new database in mongoDB:
+1. open new data base called youTube.
+2. create 2 collections. one called users that will be empty. the second called video.
+3. to the video collection import json file- videosList, that in the main branch.
+4. for default the mongo in address - 27017.
+5. if you want to change, in config files in nodejs server change the address.
+
 
 the website is working on localhost:90:
 
