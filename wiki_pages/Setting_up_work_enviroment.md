@@ -1,7 +1,8 @@
 Setting Up Work Environment (Working on Linux)
 Step 1: Run the CPP Server on Your Computer
-Clone the CPP Server from Git (Production Part 4 Branch), or download it as Zip file and extract it.
-Screenshot at 2024-05-22 17-46-26
+![הרצת שרת cpp](https://github.com/user-attachments/assets/fc50ce38-d110-45f3-b568-8733fdc71ca1)
+
+
 
 Open your terminal (on your IDE)
 
