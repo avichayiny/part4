@@ -11,7 +11,7 @@
 יש להריץ תחילה את שרת הcpp בעזרת פקודת קימפול של g++: g++ -o UpdateServer UpdateServer.cpp -pthread. ואז להריץ בעזרת פקודת ./UpdateServer. שורת הקימפול וההרצה מוצגת בתיקיית הwiki הייעודית.
 נדרש להגדיר דאטה בייס בmongoDB ולקרוא לו youTube. הדאטה בייס צריך להכיל שני אוספים: users וvideo.
 את users יש להשאיר ריק.
-לאוסף video יש לטעון את הקובץ VideoList.json שנמצא בתיקיית server-side.
+לאוסף video יש לטעון את הקובץ VideoList.json שנמצא בתיקיית server-side או מהבראנצ הראשי של ריפו זה.
 לאחר מכן יש להריץ את השרת. להיכנס לתיקיית server-side ולהריץ את השרת בעזרת פקודת npm start.
 ניתן לשנות את הport שעליו רץ השרת ע"י שינוי המשתנה PORT בתיקיית config בקבצים env, env.local, env.test.
 בקבצים אלו יש להגדיר את הlocalhost של הmongoDB ואת שם הdatabase (youTube). שם הדאטה בייס מוגדר להיות youTube באופן דיפולטיבי. וגם הlocalhost מוגדר דיפולטיבית שם.
